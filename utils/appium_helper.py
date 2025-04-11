@@ -41,6 +41,7 @@ def start_appium_server(port=4723):
     _appium_processes[port] = process
 
 
+
 def stop_appium_server(port=4723):
     """停止Appium服务"""
     process = _appium_processes.get(port)
