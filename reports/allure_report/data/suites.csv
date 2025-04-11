@@ -1,2 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","3475","测试用户正常登录","test_cases.test_ios","Sun Mar 30 21:36:42 CST 2025","passed","Sun Mar 30 21:36:46 CST 2025","TestLogin","test_ios_login","",""

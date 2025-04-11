@@ -1,6 +1,0 @@
-INFO     root:conftest.py:134 Initializing global test environment
-INFO     root:conftest.py:124 
-=== Starting test: test_login ===
-INFO     root:conftest.py:127 === Finished test: test_login ===
-
-INFO     root:conftest.py:139 Cleaning up global test environment

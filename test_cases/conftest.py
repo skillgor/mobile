@@ -133,6 +133,7 @@ def global_setup():
     clean_directory(REPORTS_DIR)
     clean_directory(SCREENSHOT_DIR)
     yield
+    time.sleep(3)
     insert_js_to_html(Report_html)
     logging.info("Cleaning up global test environment")
 
