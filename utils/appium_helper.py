@@ -23,6 +23,7 @@ def get_driver(device):
     )
     driver.implicitly_wait(10)
     return driver
+
 def start_appium_server(port=4723):
     """启动Appium服务"""
     cmd = [
